@@ -1,5 +1,9 @@
 
-
+/**
+ * Amanda Silvera
+ * JHU.605.421
+ * PA2-Main
+ * /
 
 import java.io.IOException;
 import java.util.Scanner;
