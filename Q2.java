@@ -1,3 +1,10 @@
+/**
+ * Amanda Silvera
+ * JHU-605.421
+ * PA2-Q2 Stack Functionality
+ * 
+ * /
+
 import java.util.Vector;
 
  public class Q2 <E extends Comparable<E>> implements Cloneable{
