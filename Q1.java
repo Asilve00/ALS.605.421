@@ -1,3 +1,8 @@
+/**
+ * Amanda Silvera
+ * JHU.605.421
+ * PA2-Q1 BucketSort Solutions
+ * /
 import java.util.Vector;
 
 public class Q1{
